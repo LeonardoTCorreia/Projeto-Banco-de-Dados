@@ -5,5 +5,5 @@ Implementação do Projeto da Disciplina
 schema.sql
 Definição das estruturas de tabelas finais. 
 
-data.sq
+data.sql
 conjunto de dados nas tabelas criadas
