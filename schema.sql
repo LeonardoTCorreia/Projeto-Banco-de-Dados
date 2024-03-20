@@ -66,7 +66,6 @@ CREATE TABLE Grupos_de_Usuarios (
     FOREIGN KEY (ID_Usuario_Criador) REFERENCES Usuarios(ID_Usuario)
 );
 
-
 select * from Usuarios
 
 select * from Generos
